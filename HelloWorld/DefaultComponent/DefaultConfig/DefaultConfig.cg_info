@@ -1,0 +1,41 @@
+I-Logix-RPY-Archive version 8.14.0 * 9810313
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 4;
+	- value = "DefaultComponent\\DefaultConfig\\Default.cpp" 10.31.2018::5:17:12
+	"DefaultComponent\\DefaultConfig\\Default.h" 10.31.2018::5:17:12
+	"DefaultComponent\\DefaultConfig\\OutPut.cpp" 10.31.2018::5:18:15
+	"DefaultComponent\\DefaultConfig\\OutPut.h" 10.31.2018::5:17:12
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 2107e31b-1ad8-49d3-8ec0-5d3bf7ff7dbe" "GUID f56a25be-a4ce-4f4a-ab8e-acb1d4b534b5"
+	"GUID ae51482e-b805-4690-b4e0-f9f706d4eb0b" "GUID f56a25be-a4ce-4f4a-ab8e-acb1d4b534b5"
+	
+}
+- size = 3;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\HelloWorld_rpy\\Default.sbs";
+	- _name = "Default";
+	- _id = GUID ae51482e-b805-4690-b4e0-f9f706d4eb0b;
+}
+- genTime = 10.31.2018::5:17:44;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\HelloWorld_rpy\\Default.sbs";
+	- _subsystem = "Default";
+	- _class = "TopLevel";
+	- _name = "OutPut";
+	- _id = GUID a60565ac-7ef5-494a-9fcf-b5605ab79bf1;
+}
+- genTime = 10.31.2018::5:18:15;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\HelloWorld_rpy\\DefaultComponent.cmp";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID 447f4e06-b0cd-4946-bc55-f68baf9111c5;
+}
+- genTime = 10.31.2018::5:18:15;
+
